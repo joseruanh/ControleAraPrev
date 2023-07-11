@@ -27,7 +27,7 @@ div.form
     border-radius: 10px;
     color: white;
     background-color: rgb(48, 48, 101);
-    box-shadow: black 0px 0px 10px;
+    box-shadow: black 0px 5px 10px;
     
 }
 
@@ -69,7 +69,8 @@ button.login:hover
 
 input::placeholder
 {
-    font-size: 12px;
+    font-size: 10px;
+    font-family: goldplay;
 
 }
 

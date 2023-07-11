@@ -80,7 +80,6 @@ button.menu
 
 button.menu:hover
 {
-    background-color: rgb(102, 102, 166);
     border-radius: 10px 0px 10px 0px;
     transform: scale(1.05);
 }
