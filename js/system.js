@@ -100,7 +100,7 @@ function entrar()
 
     </div> `
         senha.value == " "} else{
-        a.innerHTML = `<img src="../images/icone.png" alt="erro" class="erro"> senha incorreta <img src="../images/icone.png" alt="erro" class="erro">`
+        a.innerHTML = `<img src="images/icone.png" alt="erro" class="erro"> senha incorreta <img src="images/icone.png" alt="erro" class="erro">`
         senha.value = ""
     }
 }
