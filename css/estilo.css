@@ -1,0 +1,192 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow&display=swap');
+
+html
+{
+    scroll-behavior: smooth;
+}
+
+*
+{
+    margin: 0; padding: 0; font-family: 'Barlow', sans-serif;
+}
+
+header
+{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+body
+{
+    position: relative;
+}
+
+button.topo
+{
+    cursor: pointer;
+    box-shadow: 0px 0px 2px white;
+    width: 20px;
+    position: fixed;
+    top: 90%;
+    left: 90%;
+    border-radius: 50%;
+    border: none;
+    background-color: rgb(33, 33, 97);
+    color: white;
+    transition: 0.2s;
+}
+button.topo:hover
+{
+    transform: scale(1.3);
+}
+
+img.logo
+{
+    max-width: 250px;
+}
+
+main
+{
+    max-width: 600px;
+    margin: auto;
+    text-align: center;
+}
+
+div.botoes
+{
+    width: 100%;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button.menu
+{
+    cursor: pointer;
+    background-color: rgb(59, 59, 174);
+    border-radius: 10px;
+    color: white;
+    padding: 10px;
+    border: none;
+    transition: 0.3s;
+    margin-right: 5px;
+
+}
+
+button.menu:hover
+{
+    background-color: rgb(102, 102, 166);
+    border-radius: 10px 0px 10px 0px;
+    transform: scale(1.05);
+}
+
+div.resposta
+{
+    padding-top: 50px;
+    text-align: center;
+    width: 100%;
+    margin: auto;
+}
+
+p.tit
+{
+    font-weight: bolder;
+    font-size: 20px;
+
+    padding-bottom: 50px;
+    color: rgb(33, 33, 97);
+}
+
+table
+{
+    max-width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+td
+{
+    text-align: center;
+    padding-top: 10px;
+    font-size: 12px;
+}
+
+td.head
+{
+    font-weight: bolder;
+    border-bottom: 1px solid black;
+    font-size: 14px;
+}
+
+td.win
+{
+    font-weight: bolder;
+    color: rgb(0, 70, 0);
+}
+
+td.loss
+{
+    font-weight: bolder;
+    color: rgb(158, 0, 0);
+}
+
+footer
+{
+    text-align: center;
+    height: 400px;
+    width: 100%;
+    background-color: rgb(33, 33, 97);
+    margin-top: 500px;
+}
+
+img.rodape
+{
+    max-width: 150px;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+img.rodape:hover
+{
+    transform: scale(1.1);
+}
+
+div.site
+{
+    padding-top: 80px;
+    overflow: hidden;
+    text-align: center;
+    border-radius: 5%;
+}
+
+div.links
+{
+    display: flex;
+    justify-content: center;
+}
+
+p.link
+{
+    color: white;
+}
+
+p.siteOficial
+{
+    color: white;
+    font-size: 10px;
+}
+
+img.instalogo
+{
+    width: 20px;
+}
+
+a
+{
+    text-decoration: none;
+}
