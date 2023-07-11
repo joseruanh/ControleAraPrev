@@ -100,7 +100,7 @@ function entrar()
 
     </div> `
         senha.value == " "} else{
-        a.innerHTML = `<img src="images/icone.png" alt="erro" class="erro"> senha incorreta <img src="images/icone.png" alt="erro" class="erro">`
+        a.innerHTML = `<img src="https://diagnostico.sebrae-sc.com.br/front/img/ico/erro2.png" alt="erro" class="erro"> senha incorreta <img src="https://diagnostico.sebrae-sc.com.br/front/img/ico/erro2.png" alt="erro" class="erro">`
         senha.value = ""
     }
 }
