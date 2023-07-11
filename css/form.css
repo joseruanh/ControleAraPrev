@@ -15,8 +15,22 @@ html
     margin: 0; padding: 0; font-family: 'Barlow', sans-serif;
 }
 
+div.araprevlogo
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+p#amarelo
+{
+    color: rgb(255, 255, 120);
+}
+
 div.form
 {
+    text-align: center;
     display: block;
     justify-content: center;
     align-items: center;
