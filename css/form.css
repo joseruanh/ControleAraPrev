@@ -48,7 +48,7 @@ input:focus
     outline: none;
 }
 
-button.login, button.acessar
+button.login
 {
     width: 230px;
     padding: 10px;
@@ -61,7 +61,7 @@ button.login, button.acessar
     transition: 0.2s;
 }
 
-button.login:hover, button.acessar:hover
+button.login:hover
 {
     background-color: yellow;
     color: rgb(34, 34, 105);
@@ -86,10 +86,11 @@ p.segundo
 
 img.erro
 {
-    width: 15px;
+    width: 10px;
 }
 
 p.resposta
 {
     height: 50px;
+    font-size: 10px;
 }

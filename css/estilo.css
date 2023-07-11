@@ -41,6 +41,7 @@ button.topo
 button.topo:hover
 {
     transform: scale(1.3);
+    color: white;
 }
 
 img.logo
@@ -190,3 +191,4 @@ a
 {
     text-decoration: none;
 }
+
