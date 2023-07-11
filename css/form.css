@@ -109,3 +109,8 @@ p.resposta
     height: 50px;
     font-size: 10px;
 }
+
+p.link
+{
+    font-family: goldplay;
+}
