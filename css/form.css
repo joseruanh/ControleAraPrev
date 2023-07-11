@@ -54,7 +54,7 @@ button.login, button.acessar
     padding: 10px;
     border-radius: 10px;
     border: none;
-    background-color: white;
+    background-color: rgb(255, 255, 120);
     color: rgb(34, 34, 105);
     font-weight: bolder;
     cursor: pointer;
@@ -63,7 +63,9 @@ button.login, button.acessar
 
 button:hover
 {
-    background-color: rgb(255, 255, 120);
+    
+    background-color: yellow;
+    color: rgb(0, 0, 135);
 }
 
 input::placeholder
