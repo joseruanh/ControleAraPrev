@@ -114,9 +114,34 @@ function guias()
                     </p>
 
                     <div>
-                        <p> 
-                            Em Breve 
-                        </p>
+                    <p>
+                        Guias em Aberto
+                    </p> <br>
+                        <table class="guias">
+                            <tr>
+                                <td class="head"> Nº DA GUIA </td> <td class="head"> SETOR </td> <td class="head"> Nº SERVIDORES </td> <td class="head"> TOTAL </td> <td class="head"> VENCIMENTO </td>
+                            </tr> 
+                            <tr>
+                                <td> 70511202201D - 70511202202D </td> <td> PACS </td> <td> 27 </td> <td> R$ 22 383,27 </td> <td class="loss"> 20/12/2022 </td>
+                            </tr>
+                            <tr>
+                                <td> 5279202201 - 5279202202 </td> <td> SAMU </td> <td> 1 </td> <td> R$ 362,69 </td> <td class="loss"> 10/10/2022 </td>
+                            </tr>
+                            <tr>
+                                <td> 5319202201 - 5319202202 </td> <td> USF IV </td> <td> 1 </td> <td> R$ 362,69 </td> <td class="loss"> 10/10/2022 </td>
+                            </tr>
+                            <tr>
+                                <td> 4698202201 - 4698202202 </td> <td> USF IV </td> <td> 1 </td> <td> R$ 362,69 </td> <td class="loss"> 10/09/2022 </td>
+                            </tr>
+                            <tr>
+                                <td> 4658202201 - 4658202202 </td> <td> SAMU </td> <td> 1 </td> <td> R$ 362,69 </td> <td class="loss"> 10/09/2022 </td>
+                            </tr>
+                            <tr>
+                                <td> 3937202201 - 3937202202 </td> <td> USF II </td> <td> 1 </td> <td> R$ 362,69 </td> <td class="loss"> 10/08/2022 </td>
+                            </tr>
+
+                            
+                        </table>
                     </div>
                     
                     
