@@ -119,7 +119,7 @@ function guias()
                     </p> <br>
                         <table class="guias">
                             <tr>
-                                <td class="head"> Nº DA GUIA </td> <td class="head"> SETOR </td> <td class="head"> Nº SERVIDORES </td> <td class="head"> TOTAL </td> <td class="head"> VENCIMENTO </td>
+                                <td class="head"> Nº DA GUIA </td> <td class="head"> SETOR </td> <td class="head"> Nº SERV </td> <td class="head"> TOTAL </td> <td class="head"> VENCIMENTO </td>
                             </tr> 
                             <tr>
                                 <td> 70511202201D - 70511202202D </td> <td> PACS </td> <td> 27 </td> <td> R$ 22 383,27 </td> <td class="loss"> 20/12/2022 </td>
