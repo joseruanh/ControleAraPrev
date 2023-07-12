@@ -89,9 +89,9 @@ function entrar()
         } else if(senha.value == "150876"){
         window.alert="sucesso"
         b.innerHTML = ` <div class="botoes">
-        <button class="menu" onclick="parcelamentos()">parcelamentos</button>
+        <button class="menu" onclick="parcelamentos()">Parcelamentos</button>
 
-        <button class="menu" onclick="guias()"> guias de parcelamentos </button>
+        <button class="menu" onclick="guias()"> Guias Abertas </button>
     </div>
 
     <div class="resposta" id="res">
