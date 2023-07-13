@@ -115,3 +115,15 @@ p.link
 {
     font-family: goldplay;
 }
+
+a
+{
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+    transition: 0.2s;
+}
+a:hover
+{
+    color: rgb(70, 70, 255);
+}

@@ -92,6 +92,8 @@ function entrar()
         <button class="menu" onclick="parcelamentos()">Parcelamentos</button>
 
         <button class="menu" onclick="guias()"> Guias Abertas </button>
+
+        <button class="menu" onclick="relatorio()"> Relatório de Guias </button>
     </div>
 
     <div class="resposta" id="res">
@@ -164,3 +166,29 @@ document.addEventListener("keypress", function(e) {
     
     }
   });
+
+  function relatorio(){
+    let a = window.document.getElementById("res")
+
+    a.innerHTML = `<p class="tit"> Relatório de Guias </p>
+    
+    <table>
+        <tr>
+            <td class="head">ㅤㅤㅤMês/Anoㅤㅤㅤ</td> <td class="head"> Secretaria </td> <td class="head">ㅤㅤArquivoㅤㅤ</td>
+        </tr>
+        <tr>
+            <td>Julho/2023</td> <td>Prefeitura</td> <td> <a href="https://drive.google.com/file/d/12KJS_5yjtTmBIOkmc9XOpGxECAA2nWtJ/view?usp=sharing" target="_blank">Visualizar</a></td>
+        </tr>
+        <tr>
+            <td>Julho/2023</td> <td>Educação</td> <td> <a href="https://drive.google.com/file/d/12I2sZldWdrHVz5IjS1w6eexG4BH-itc2/view?usp=sharing" target="_blank">Visualizar</a></td>
+        </tr>
+        <tr>
+            <td>Julho/2023</td> <td>Assistência Social</td> <td> <a href="https://drive.google.com/file/d/12OfxKlLgulyCM2-WcpjtmXBdNPzOBB_H/view?usp=sharing" target="_blank">Visualizar</a></td>
+        </tr>
+        <tr>
+            <td>Julho/2023</td> <td>Saúde</td> <td> <a href="https://drive.google.com/file/d/12OIPsq_eH1ceXhkKvDpKZBQaaJsAtj8V/view?usp=sharing" target="_blank">Visualizar</a></td>
+        </tr>
+    </table>
+
+    `
+  }
