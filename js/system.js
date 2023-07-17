@@ -10,7 +10,7 @@ function acessar()
         b.innerHTML = ` <h1> ㅤ </h1> `
 
         content.innerHTML = ` 
-        <img src="images/araprev.jpg" alt="Araçoiaba Prev">
+        <img src="images/araprev.jpg" alt="Araçoiaba Prev" class="fotoaraprev">
         
         <div class="botoes">
         <button class="opcoes" onclick="parcelamentos()"> Parcelamentos </button>
@@ -46,7 +46,7 @@ document.addEventListener("keypress", function(e) {
     a.innerHTML = ` <h1> ㅤ </h1> `
 
     content.innerHTML = ` 
-    <img src="images/araprev.jpg" alt="Araçoiaba Prev">
+    <img src="images/araprev.jpg" alt="Araçoiaba Prev" class="fotoaraprev">
     
     <div class="botoes">
     <button class="opcoes" onclick="parcelamentos()"> Parcelamentos </button>
@@ -128,7 +128,7 @@ document.addEventListener("keypress", function(e) {
     a.innerHTML = ` <h1> ㅤ </h1> `
 
     content.innerHTML = ` 
-    <img src="images/araprev.jpg" alt="Araçoiaba Prev">
+    <img src="images/araprev.jpg" alt="Araçoiaba Prev" class="fotoaraprev">
     
     <div class="botoes">
     <button class="opcoes" onclick="parcelamentos()"> Parcelamentos </button>
@@ -184,7 +184,7 @@ document.addEventListener("keypress", function(e) {
     a.innerHTML = ` <h1> ㅤ </h1> `
 
     content.innerHTML = ` 
-    <img src="images/araprev.jpg" alt="Araçoiaba Prev">
+    <img src="images/araprev.jpg" alt="Araçoiaba Prev" class="fotoaraprev">
     
     <div class="botoes">
     <button class="opcoes" onclick="parcelamentos()"> Parcelamentos </button>

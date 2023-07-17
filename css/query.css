@@ -5,4 +5,25 @@
     a{
         font-size: 9px;
     }
+
+    div.principal{
+        max-width: 100%;
+    }
+
+    div.content{
+        max-width: 100%;
+    }
+
+    div.botoes{
+        max-width: 100%;
+    }
+
+    button.opcoes{
+        width: 100px;
+        font-size: 9px;
+    }
+
+    img.fotoaraprev{
+        width: 340px;
+    }
 }
