@@ -1,0 +1,8 @@
+@media (max-width: 770px){
+    td{
+        font-size: 9px;
+    }
+    a{
+        font-size: 9px;
+    }
+}

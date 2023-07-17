@@ -1,196 +1,128 @@
-@import url('https://fonts.googleapis.com/css2?family=Barlow&display=swap');
-
-html
-{
-    scroll-behavior: smooth;
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:wght@300&display=swap');
+@font-face {
+    font-family: goldplay;
+    src: url(../font/GoldplayAlt-Black/GoldplayAlt-Black.ttf);
 }
 
-*
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Public Sans', sans-serif;
+}
+:root
 {
-    margin: 0; padding: 0; font-family: 'Barlow', sans-serif;
+    --cor1: #DCDCDC;
+    --cor2: rgb(70, 70, 197);
+    --cor3: rgb(255, 255, 136);
+
 }
 
-header
+.foto
 {
-    width: 100%;
+    margin-bottom: 50px;
+}
+
+.logo
+{
     display: flex;
-    justify-content: center;
-    align-items: center;
-    cursor: pointer;
+    margin-bottom: 10px;
 }
 
-body
+p.araprev, p.araprev1
 {
-    position: relative;
+    font-size: 20px;
+    font-weight: bolder;
+    font-family: goldplay;
 }
 
-button.topo
+p.araprev
 {
-    cursor: pointer;
-    box-shadow: 0px 0px 2px white;
-    width: 40px;
-    height: 40px;
-    position: fixed;
-    top: 90%;
-    left: 90%;
-    border-radius: 50%;
-    border: none;
-    background-color: rgb(33, 33, 97);
-    color: white;
-    transition: 0.2s;
-}
-button.topo:hover
-{
-    transform: scale(1.1);
     color: white;
 }
-
-img.logo
+p.araprev1
 {
-    max-width: 250px;
-}
-
-main
-{
-    max-width: 600px;
-    margin: auto;
-    text-align: center;
-}
-
-div.botoes
-{
-    width: 100%;
-    background-color: white;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-button.menu
-{
-    cursor: pointer;
-    background-color: rgb(59, 59, 174);
-    border-radius: 10px;
-    color: white;
-    padding: 10px;
-    border: none;
-    transition: 0.3s;
-    margin-right: 5px;
-
-}
-
-button.menu:hover
-{
-    border-radius: 10px 0px 10px 0px;
-    transform: scale(1.05);
-}
-
-div.resposta
-{
-    padding-top: 50px;
-    text-align: center;
-    width: 100%;
-    margin: auto;
+    color: var(--cor3);
 }
 
 p.tit
 {
-    font-weight: bolder;
-    font-size: 20px;
-
-    padding-bottom: 50px;
-    color: rgb(33, 33, 97);
-}
-
-table
-{
-    max-width: 100%;
-    justify-content: center;
-    align-items: center;
-    margin: auto;
-}
-
-td
-{
-    text-align: center;
-    padding-top: 10px;
     font-size: 12px;
+    color: white;
 }
 
-td.head
+p.resposta
 {
-    font-weight: bolder;
-    border-bottom: 1px solid black;
-    font-size: 14px;
-    padding: 0px 3px;
+    color: white;
+    font-size: 12px;
+    margin-top: 10px;
 }
 
-td.win
+.cabeca
 {
-    font-weight: bolder;
-    color: rgb(0, 70, 0);
-}
-
-td.loss
-{
-    font-weight: bolder;
-    color: rgb(158, 0, 0);
-}
-
-footer
-{
-    text-align: center;
-    height: 400px;
     width: 100%;
-    background-color: rgb(33, 33, 97);
-    margin-top: 350px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    height: 100px;
+    background-color: var(--cor1);
+
 }
 
-img.rodape
-{
-    max-width: 150px;
-    transition: 0.3s;
-    cursor: pointer;
-}
-
-img.rodape:hover
-{
-    transform: scale(1.1);
-}
-
-div.site
-{
-    padding-top: 80px;
-    overflow: hidden;
-    text-align: center;
-    border-radius: 5%;
-}
-
-div.links
+.principal
 {
     display: flex;
-    justify-content: center;
+    width: 95%;
+    margin: auto;
+    display: flex;
+    justify-content: right;
+    align-items: center;
 }
 
-p.link
+.acessar
 {
-    color: white;
-    font-size: 15px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 10px;
 }
 
-p.siteOficial
+input
 {
-    color: white;
-    font-size: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid var(--cor1);
+    transition: 0.2s;
 }
 
-img.instalogo
+input:focus
 {
-    width: 20px;
+    outline: none;
 }
 
-a
+button.login
 {
-    text-decoration: none;
+    background-color: white;
+    color: rgba(0, 0, 0, 0.645);
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    transition: 0.2s;
+    font-weight: bolder;
+}
+
+button.login:hover
+{
+    background-color: var(--cor3);
+    color: var(--cor2);
+}
+
+.acesso
+{
+    padding: 15px;
+    border-radius: 10px;
+    background-color: var(--cor2);
 }
 
