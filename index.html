@@ -3,49 +3,49 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AraPrev Controle Interno de Processos</title>
+    <title>Araçoiaba Prev</title>
     <link rel="stylesheet" href="css/estilo.css">
+    <link rel="stylesheet" href="css/content.css">
+    <link rel="stylesheet" href="css/query.css">
+    <link rel="shortcut icon" href="images/araprev.jpg" type="image/x-icon">
     <script src="js/system.js"></script>
-    <link rel="shortcut icon" href="images/ico.jpg" type="image/x-icon">
-    <link rel="stylesheet" href="css/form.css">
 </head>
 <body>
-    <button class="topo" onclick="topo()">^</button>
-    <header>
-        <img src="images/logo.jpg" class="logo" alt="araprev">
-    </header>
 
-    <main id="principal">
-        <div class="form">
-            <br>
-            <div class="araprevlogo"><p class="araprevP">ARAÇOIABA</p> <p class="araprevP" id="amarelo">PREV</p></div>
-            <p class="segundo">Controle de Pagamentos</p> <br><br><br>
-            <input type="password" name="senha" id="senha" class="entrada" placeholder="                     utilize a senha para acessar" onclick="limpar()">
-            <br> <br> <p id="resposta" class="resposta">ㅤ</p> <br>
-            <button class="login" onclick="entrar()" id="entrar"> Acessar </button>
+    <div class="content" id="content">
 
-        </div>
-        
-
-    </main>
-
-    <footer>
-
-        
-        <div class="site">
-            <a href="https://www.aracoiabaprev.pe.gov.br/" target="_blank">
-                <img src="images/ico.jpg" alt="Araçoiaba Prev" class="rodape">
-            </a>
-        </div>
-        <p class="siteOficial">site oficial</p>
-    
-    <br><br><br><br><br><br>
-
-    <div class="links">
-        <a href="https://www.instagram.com/aracoiabaprev/" target="_blank"> <img src="images/insta_logo.webp" alt="instagram" class="instalogo"> </a>
-        <a href="https://www.instagram.com/aracoiabaprev/" target="_blank"> <p class="link">aracoiabaprev</p> </a>
     </div>
-</footer>
 
+    <div class="principal" id="acessou">
+
+        <div class="acessar">
+
+            <div class="foto">
+                <img src="images/araprev.jpg" alt="Araçoiaba Prev" class="fotoaraprev">
+            </div>
+            <div class="acesso">
+                <div class="logo">
+                    <p class="araprev"> ARAÇOIABA </p> <p class="araprev1"> PREV </p>
+                </div>
+
+
+                <p class="tit">
+                    Utilize a senha para acessar
+                </p>
+    
+                <input type="password" class="senha" id="senha" onclick="limpar()" placeholder="senha">
+                <button class="login" onclick="acessar()" id="acessar">
+                    Entrar
+                </button>
+                <p id="res" class="resposta"> ㅤ </p>
+
+
+            </div>
+            
+
+        </div>
+        
+    </div>
+    
 </body>
 </html>

@@ -1,0 +1,92 @@
+:root
+{
+    --cor1: #DCDCDC;
+    --cor2: rgb(70, 70, 197);
+    --cor3: rgb(255, 255, 136);
+    --cor4: rgb(138, 138, 204);
+}
+
+.content{
+    width: 95%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+button.opcoes
+{
+    padding: 10px;
+    background-color: var(--cor2);
+    border: none;
+    color: white;
+    cursor: pointer;
+    transition: 0.2s;
+    margin-right: 15px;
+}
+
+button.opcoes:hover
+{
+    border-radius: 10px 0px;
+    transform: scale(1.1);
+}
+
+div.parcelamentosdiv
+{
+    margin-top: 50px;
+}
+
+table
+{
+    width: 100%;
+    padding: 10px;
+    margin: auto;
+    background-color: var(--cor2);
+    border-radius: 10px;
+    color: white;
+}
+
+td
+{
+ width: 300px;
+ padding: 5px 0px;
+}
+
+td.head
+{
+    font-weight: bolder;
+    border-bottom: 1px solid white;
+}
+
+td.loss
+{
+    color: rgb(223, 107, 107);
+}
+
+td.win
+{
+    color: rgb(51, 160, 51);
+}
+
+div.tabela
+{
+    margin: auto;
+    text-align: center;
+}
+
+a
+{
+    text-decoration: none;
+    color: white;
+    font-weight: bolder;
+    font-size: 16px;
+    transition: 0.2s;
+    border-bottom: 1px solid white;
+}
+
+a:hover
+{
+    color: var(--cor3);
+}
