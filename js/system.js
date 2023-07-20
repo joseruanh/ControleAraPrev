@@ -57,6 +57,10 @@ document.addEventListener("keypress", function(e) {
     <div class="parcelamentosdiv">
 
     <div class="tabela">
+
+    <p class="tituloguia">Controle de Pagamento de Repasses</p>
+
+    <br>
     
 
     <table>
@@ -139,6 +143,8 @@ document.addEventListener("keypress", function(e) {
     <div class="parcelamentosdiv">
 
     <div class="tabela">
+
+    <p class="tituloguia"> Controle de Pagamento de Guias </p> <br>
     
 
     <table>
@@ -195,6 +201,8 @@ document.addEventListener("keypress", function(e) {
     <div class="parcelamentosdiv">
 
     <div class="tabela">
+
+    <p class="tituloguia">Relatório Mensal de Guias</p> <br>
     
 
     <table>

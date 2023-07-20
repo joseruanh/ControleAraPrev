@@ -90,3 +90,10 @@ a:hover
 {
     color: var(--cor3);
 }
+
+p.tituloguia
+{
+    font-weight: bolder;
+    color: var(--cor2);
+    font-size: 19px;
+}
