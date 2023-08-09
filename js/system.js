@@ -70,6 +70,10 @@ document.addEventListener("keypress", function(e) {
     </tr>
 
     <tr>
+        <td> 44/60 </td> <td> ago/23 </td> <td> a definir </td> <td> a definir </td> <td class="loss"> ABERTO </td> <td class="loss"> falta </td>
+    </tr>
+
+    <tr>
         <td> 43/60 </td> <td> jul/23 </td> <td> a definir </td> <td> a definir </td> <td class="loss"> ABERTO </td> <td class="loss"> falta </td>
     </tr>
 
@@ -219,24 +223,19 @@ document.addEventListener("keypress", function(e) {
         </tr>
 
         <tr>
-            <td>Agosto/2023</td> <td>Prefeitura</td> <td> <a href="https://drive.google.com/file/d/1QcMMhWpTug9gR0SFkb3H7ygO-Kp9QLrs/view?usp=sharing" target="_blank">Visualizar</a></td>
+            <td>Julho/2023</td> <td>Prefeitura</td> <td> <a href="https://drive.google.com/file/d/1QcMMhWpTug9gR0SFkb3H7ygO-Kp9QLrs/view?usp=sharing" target="_blank">Visualizar</a></td>
         </tr>
 
         <tr>
-            <td>Agosto/2023</td> <td>Educação</td> <td> <a href="https://drive.google.com/file/d/1E4ddHUZ2aqgolRTKCBCNmNTZ5JYnvici/view?usp=sharing" target="_blank">Visualizar</a></td>
+            <td>Julho/2023</td> <td>Educação</td> <td> <a href="https://drive.google.com/file/d/1E4ddHUZ2aqgolRTKCBCNmNTZ5JYnvici/view?usp=sharing" target="_blank">Visualizar</a></td>
         </tr>
 
         <tr>
-            <td>Agosto/2023</td> <td>Assistência Social</td> <td> <a href="https://drive.google.com/file/d/1m2_W6vXJNotRNqFEgMvG1KSow6TTlZ3U/view?usp=sharing" target="_blank">Visualizar</a></td>
+            <td>Julho/2023</td> <td>Assistência Social</td> <td> <a href="https://drive.google.com/file/d/1m2_W6vXJNotRNqFEgMvG1KSow6TTlZ3U/view?usp=sharing" target="_blank">Visualizar</a></td>
         </tr>
 
         <tr>
-            <td>Agosto/2023</td> <td>Saúde</td> <td> <a href="https://drive.google.com/file/d/1aYCYCtgezgeyCZooJCGuHTbjpN6U1RlQ/view?usp=sharing" target="_blank">Visualizar</a></td>
-        </tr>
-
-        <tr>
-            <td>
-            </td>
+            <td>Julho/2023</td> <td>Saúde</td> <td> <a href="https://drive.google.com/file/d/1aYCYCtgezgeyCZooJCGuHTbjpN6U1RlQ/view?usp=sharing" target="_blank">Visualizar</a></td>
         </tr>
 
         <tr>
@@ -245,19 +244,24 @@ document.addEventListener("keypress", function(e) {
         </tr>
 
         <tr>
-            <td>Julho/2023</td> <td>Prefeitura</td> <td> <a href="https://drive.google.com/file/d/12KJS_5yjtTmBIOkmc9XOpGxECAA2nWtJ/view?usp=sharing" target="_blank">Visualizar</a></td>
+            <td>
+            </td>
         </tr>
 
         <tr>
-            <td>Julho/2023</td> <td>Educação</td> <td> <a href="https://drive.google.com/file/d/12I2sZldWdrHVz5IjS1w6eexG4BH-itc2/view?usp=sharing" target="_blank">Visualizar</a></td>
+            <td>Junho/2023</td> <td>Prefeitura</td> <td> <a href="https://drive.google.com/file/d/12KJS_5yjtTmBIOkmc9XOpGxECAA2nWtJ/view?usp=sharing" target="_blank">Visualizar</a></td>
         </tr>
 
         <tr>
-            <td>Julho/2023</td> <td>Assistência Social</td> <td> <a href="https://drive.google.com/file/d/12OfxKlLgulyCM2-WcpjtmXBdNPzOBB_H/view?usp=sharing" target="_blank">Visualizar</a></td>
+            <td>Junho/2023</td> <td>Educação</td> <td> <a href="https://drive.google.com/file/d/12I2sZldWdrHVz5IjS1w6eexG4BH-itc2/view?usp=sharing" target="_blank">Visualizar</a></td>
         </tr>
 
         <tr>
-            <td>Julho/2023</td> <td>Saúde</td> <td> <a href="https://drive.google.com/file/d/12OIPsq_eH1ceXhkKvDpKZBQaaJsAtj8V/view?usp=sharing" target="_blank">Visualizar</a></td>
+            <td>Junho/2023</td> <td>Assistência Social</td> <td> <a href="https://drive.google.com/file/d/12OfxKlLgulyCM2-WcpjtmXBdNPzOBB_H/view?usp=sharing" target="_blank">Visualizar</a></td>
+        </tr>
+
+        <tr>
+            <td>Junho/2023</td> <td>Saúde</td> <td> <a href="https://drive.google.com/file/d/12OIPsq_eH1ceXhkKvDpKZBQaaJsAtj8V/view?usp=sharing" target="_blank">Visualizar</a></td>
         </tr>
 
     </table>
