@@ -70,6 +70,10 @@ document.addEventListener("keypress", function(e) {
     </tr>
 
     <tr>
+        <td> 43/60 </td> <td> jul/23 </td> <td> a definir </td> <td> a definir </td> <td class="loss"> ABERTO </td> <td class="loss"> falta </td>
+    </tr>
+
+    <tr>
         <td> 42/60 </td> <td> jun/23 </td> <td> 17/07/23 </td> <td> R$ 74 130,69 </td> <td class="loss"> ABERTO </td> <td class="loss"> falta </td>
     </tr>
 
