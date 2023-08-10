@@ -74,7 +74,7 @@ document.addEventListener("keypress", function(e) {
     </tr>
 
     <tr>
-        <td> 43/60 </td> <td> jul/23 </td> <td> a definir </td> <td> a definir </td> <td class="loss"> ABERTO </td> <td class="loss"> falta </td>
+        <td> 43/60 </td> <td> jul/23 </td> <td> 17/08/23 </td> <td> R$ 74 360,50 </td> <td class="loss"> ABERTO </td> <td class="loss"> falta </td>
     </tr>
 
     <tr>
@@ -163,6 +163,10 @@ document.addEventListener("keypress", function(e) {
     <tr>
         <td class="head"> Nº DA GUIA </td> <td class="head"> SETOR </td> <td class="head"> Nº SERV </td> <td class="head"> TOTAL </td> <td class="head"> VENCIMENTO </td>
     </tr> 
+
+    <tr>
+        <td></td>
+    </tr>
     <tr>
         <td> 70511202201D - 70511202202D </td> <td> PACS </td> <td> 27 </td> <td> R$ 22 383,27 </td> <td class="loss"> 20/12/2022 </td>
     </tr>
