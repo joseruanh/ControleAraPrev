@@ -168,22 +168,43 @@ document.addEventListener("keypress", function(e) {
         <td></td>
     </tr>
     <tr>
-        <td> 70511202201D - 70511202202D </td> <td> PACS </td> <td> 27 </td> <td> R$ 22 383,27 </td> <td class="loss"> 20/12/2022 </td>
+        <td> 3896202301-3896202302 </td> <td> CÂMARA </td> <td> 7 </td> <td> R$ 3 430,91 </td> <td class="loss"> 10/07/23 </td>
     </tr>
+
     <tr>
-        <td> 5279202201 - 5279202202 </td> <td> SAMU </td> <td> 1 </td> <td> R$ 362,69 </td> <td class="loss"> 10/10/2022 </td>
+        <td> 3756202301 - 3756202302 </td> <td> FUNDEB 70% CRECHE </td> <td> 4 </td> <td> R$ 5 782,35 </td> <td class="loss"> 10/07/23 </td>
     </tr>
+
     <tr>
-        <td> 5319202201 - 5319202202 </td> <td> USF IV </td> <td> 1 </td> <td> R$ 362,69 </td> <td class="loss"> 10/10/2022 </td>
+        <td> 3716202301-3716202302 </td> <td> FUNDEB 70% EJA </td> <td> 6 </td> <td> R$ 9 569,65 </td> <td class="loss"> 10/07/23 </td>
     </tr>
+
     <tr>
-        <td> 4698202201 - 4698202202 </td> <td> USF IV </td> <td> 1 </td> <td> R$ 362,69 </td> <td class="loss"> 10/09/2022 </td>
+        <td> 3696202301-3696202302 </td> <td> FUNDEB 70% </td> <td> 54 </td> <td> R$ 24 759,28 </td> <td class="loss"> 10/07/23 </td>
     </tr>
+
     <tr>
-        <td> 4658202201 - 4658202202 </td> <td> SAMU </td> <td> 1 </td> <td> R$ 362,69 </td> <td class="loss"> 10/09/2022 </td>
+        <td> 3797202301 - 3797202302 </td> <td> CASA DO CIDADÃO </td> <td> 1 </td> <td> R$ 220,11 </td> <td class="loss"> 10/07/23 </td>
     </tr>
+
     <tr>
-        <td> 3937202201 - 3937202202 </td> <td> USF II </td> <td> 1 </td> <td> R$ 362,69 </td> <td class="loss"> 10/08/2022 </td>
+        <td>4377202301 - 4377202302 </td> <td> FUNDEB 70% </td> <td> 54 </td> <td> R$ 24 383,08 </td> <td class="loss"> 10/08/23 </td>
+    </tr>
+
+    <tr>
+        <td>4397202301 - 4397202302 </td> <td> FUNDEB 70% EJA </td> <td> 6 </td> <td> R$ 9 569,65 </td> <td class="loss"> 10/08/23 </td>
+    </tr>
+
+    <tr>
+         <td> 4437202301 - 4437202302 </td> <td> FUNDEB 70% CRECHE </td> <td> 6 </td> <td> R$ 5 782,35 </td> <td class="loss"> 10/08/23 </td>
+    </tr>
+
+    <tr>
+        <td> 4017202301 - 4017202302 </td> <td> CENTRO ODONTOLÓGICO </td> <td> 1 </td> <td> R$ 432,63 </td> <td class="loss"> 10/08/23 </td>
+    </tr>
+
+    <tr>
+        <td> 4157202301 - 4157202302 </td> <td> CAPS </td> <td> 1 </td> <td> R$ 395,01 </td> <td class="loss"> 10/08/23 </td>
     </tr>
 
     
