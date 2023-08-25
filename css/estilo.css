@@ -126,3 +126,7 @@ button.login:hover
     background-color: var(--cor2);
 }
 
+#fotologin
+{
+    width: 300px;
+}
