@@ -4,6 +4,7 @@ function acessar()
     let senha = window.document.getElementById("senha")
     let b = window.document.getElementById("acessou")
     let content = window.document.getElementById("content")
+    
     if(senha.value.length == 0){
         window.alert("favor inserir a senha de acesso")
     }else if(senha.value == "150876"){
@@ -30,6 +31,7 @@ function limpar()
     a.innerHTML = ` ㅤ `
 }
 
+
 document.addEventListener("keypress", function(e) {
     if(e.key === 'Enter') {
     
@@ -39,6 +41,8 @@ document.addEventListener("keypress", function(e) {
     
     }
   });
+
+
 
   function parcelamentos()
   {
