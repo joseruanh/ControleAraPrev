@@ -258,6 +258,33 @@ document.addEventListener("keypress", function(e) {
         </tr>
 
         <tr>
+            <td>Agosto/2023</td> <td>Prefeitura</td> <td> <a href="https://drive.google.com/file/d/1MGQt-mW987iwnN3_C7AECZpvkSmVvNNd/view?usp=sharing" target="_blank">Visualizar</a></td>
+        </tr>
+
+        <tr>
+            <td>Agosto/2023</td> <td>Educação</td> <td> <a href="https://drive.google.com/file/d/1zQcwqtC6AMUTAdGoUl7XX46mp0INNsoP/view?usp=sharing" target="_blank">Visualizar</a></td>
+        </tr>
+
+        <tr>
+            <td>Agosto/2023</td> <td>Assistência Social</td> <td> <a href="https://drive.google.com/file/d/1UmGOgMRtHJ7_PsMeAb6zItOuMJUe9teP/view?usp=sharing" target="_blank">Visualizar</a></td>
+        </tr>
+
+        <tr>
+            <td>Agosto/2023</td> <td>Saúde</td> <td> <a href="https://drive.google.com/file/d/1y14tUIWyLhF8Hhnpq_oQn4KmI2X7irGn/view?usp=sharing" target="_blank">Visualizar</a></td>
+        </tr>
+
+
+        <tr>
+            <td>
+            </td>
+        </tr>
+        
+        <tr>
+            <td>
+            </td>
+        </tr>
+
+        <tr>
             <td>Julho/2023</td> <td>Prefeitura</td> <td> <a href="https://drive.google.com/file/d/1QcMMhWpTug9gR0SFkb3H7ygO-Kp9QLrs/view?usp=sharing" target="_blank">Visualizar</a></td>
         </tr>
 
