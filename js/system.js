@@ -177,36 +177,9 @@ document.addEventListener("keypress", function(e) {
     <tr>
         <td></td>
     </tr>
-    <tr>
-        <td> 3896202301-3896202302 </td> <td> CÂMARA </td> <td> 7 </td> <td> R$ 3 430,91 </td> <td class="loss"> 10/07/23 </td>
-    </tr>
-
-    <tr>
-        <td> 3756202301 - 3756202302 </td> <td> FUNDEB 70% CRECHE </td> <td> 4 </td> <td> R$ 5 782,35 </td> <td class="loss"> 10/07/23 </td>
-    </tr>
-
-    <tr>
-        <td> 3716202301-3716202302 </td> <td> FUNDEB 70% EJA </td> <td> 6 </td> <td> R$ 9 569,65 </td> <td class="loss"> 10/07/23 </td>
-    </tr>
-
-    <tr>
-        <td> 3696202301-3696202302 </td> <td> FUNDEB 70% </td> <td> 54 </td> <td> R$ 24 759,28 </td> <td class="loss"> 10/07/23 </td>
-    </tr>
 
     <tr>
         <td> 3797202301 - 3797202302 </td> <td> CASA DO CIDADÃO </td> <td> 1 </td> <td> R$ 220,11 </td> <td class="loss"> 10/07/23 </td>
-    </tr>
-
-    <tr>
-        <td>4377202301 - 4377202302 </td> <td> FUNDEB 70% </td> <td> 54 </td> <td> R$ 24 383,08 </td> <td class="loss"> 10/08/23 </td>
-    </tr>
-
-    <tr>
-        <td>4397202301 - 4397202302 </td> <td> FUNDEB 70% EJA </td> <td> 6 </td> <td> R$ 9 569,65 </td> <td class="loss"> 10/08/23 </td>
-    </tr>
-
-    <tr>
-         <td> 4437202301 - 4437202302 </td> <td> FUNDEB 70% CRECHE </td> <td> 6 </td> <td> R$ 5 782,35 </td> <td class="loss"> 10/08/23 </td>
     </tr>
 
     <tr>
