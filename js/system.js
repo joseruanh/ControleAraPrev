@@ -191,7 +191,7 @@ document.addEventListener("keypress", function(e) {
     </tr>
 
     <tr>
-        <td> 3797202301 - 3797202302 </td> <td> CASA DO CIDADÃO </td> <td> 1 </td> <td> R$ 220,11 </td> <td class="loss"> 10/07/23 </td>
+        <td> 3797202301 - 3797202302 </td> <td> CASA DO CIDADÃO </td> <td> 1 </td> <td> R$ 432,63 </td> <td class="loss"> 10/07/23 </td>
     </tr>
 
     <tr>
